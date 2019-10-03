@@ -1301,9 +1301,9 @@
     "restore": {
       "projectUniqueName": "RPA_FlashScore_ScoreCardScrapper",
       "projectName": "RPA_FlashScore_ScoreCardScrapper",
-      "projectPath": "C:\\Users\\maxargn\\Documents\\UiPathRobots\\Andrew\\RPA_FlashScore_ScoreCardScrapper-CaribbeanPremierLeague\\.local",
+      "projectPath": "C:\\Users\\maxargn\\OneDrive\\Freelancing\\UiPathRobots\\Andrew\\RPA_FlashScore_ScoreCardScrapper-CaribbeanPremierLeague\\.local",
       "packagesPath": "C:\\Users\\maxargn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxargn\\Documents\\UiPathRobots\\Andrew\\RPA_FlashScore_ScoreCardScrapper-CaribbeanPremierLeague\\.local"
+      "outputPath": "C:\\Users\\maxargn\\OneDrive\\Freelancing\\UiPathRobots\\Andrew\\RPA_FlashScore_ScoreCardScrapper-CaribbeanPremierLeague\\.local"
     },
     "frameworks": {
       "net461": {
